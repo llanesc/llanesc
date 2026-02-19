@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm currently a robotics PhD candidate at Georgia Institute of Technology with core areas in mechanics, controls, and artificial intelligence. <br>I also received a Bachelor of Science in Aerospace Engineering from Embry-Riddle Aeronautical University where I specialized in aeronautics.<br><br>I specialize in aerial robotics and broader aerospace applications. Currently, I’m developing drone navigation and control algorithms using reinforcement learning.
+I'm currently a robotics PhD candidate at Georgia Institute of Technology with core areas in mechanics, controls, and artificial intelligence. I also received a Bachelor of Science in Aerospace Engineering from Embry-Riddle Aeronautical University where I specialized in aeronautics.
+
+<br>I specialize in aerial robotics and broader aerospace applications. Currently, I’m developing drone navigation and control algorithms using reinforcement learning.
 
 
 ## 🌐 Socials:
